@@ -5,3 +5,7 @@ This is a solution to the [Frontend Mentor Clipboard landing page challenge](htt
 ## Screenshot
 
 ![Clipboard Landing Page](images/screenshot.png)
+
+## Live Demo
+
+Check out the live demo [here](https://clipboard-landing-page-clone.netlify.app).
